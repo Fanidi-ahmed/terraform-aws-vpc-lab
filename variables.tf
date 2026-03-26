@@ -1,3 +1,6 @@
+provider "aws" {
+  region = "eu-west-3"
+}
 variable "project_name" {
   description = "Nom du projet"
   type        = string
