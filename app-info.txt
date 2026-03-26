@@ -1,0 +1,3 @@
+Projet: terraform-aws-vpc-lab
+But: test de copie de fichier vers EC2
+Auteur: Ahmed
