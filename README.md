@@ -139,7 +139,9 @@ Accès via AWS SSM (sans clé)
 Terraform modules
 CI/CD avec GitHub Actions
 Scanner AWS avancé avec boto3
-👨‍💻 Auteur
+
+
+👨‍💻 Auteur: Ahmed Fanidi
 
 Projet réalisé dans un objectif d’apprentissage avancé DevOps / Cloud AWS / Automatisation.
 
